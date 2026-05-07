@@ -1,0 +1,17 @@
+{
+  "case_id": "synthetic_case_001",
+  "candidate_lesions": [
+    {
+      "lesion_id": "L1",
+      "included_for_scoring": true,
+      "reason": "The lesion is residual, lymphoma-related, and shows abnormal FDG uptake."
+    }
+  ],
+  "main_lesion": {
+    "lesion_id": "L1",
+    "description": "Residual gastric wall lesion",
+    "suvmax": 11.6
+  },
+  "final_deauville_score": "5",
+  "explanation": "The main lymphoma-related lesion has SUVmax 11.6, which is greater than twice the liver uptake. Therefore, the final Deauville score is 5."
+}

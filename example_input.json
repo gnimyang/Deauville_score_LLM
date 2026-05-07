@@ -1,0 +1,17 @@
+{
+  "case_id": "synthetic_case_001",
+  "clinical_history": "The patient has lymphoma and underwent follow-up 18F-FDG PET/CT after treatment.",
+  "current_findings": "A residual gastric wall lesion shows increased FDG uptake with SUVmax 11.6. No new abnormal FDG-avid lesions are identified elsewhere.",
+  "prior_impression": "The gastric wall lesion was previously described as suspicious for lymphoma involvement.",
+  "mediastinal_suvmax": 1.7,
+  "liver_suvmax": 2.5,
+  "lesions": [
+    {
+      "lesion_id": "L1",
+      "description": "Residual gastric wall lesion",
+      "suvmax": 11.6,
+      "status": "residual",
+      "lymphoma_relevance": "related"
+    }
+  ]
+}
