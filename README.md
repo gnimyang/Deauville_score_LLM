@@ -139,6 +139,14 @@ python evaluate.py \
   --label_file /path/to/labels.jsonl
 ```
 
+## Model weights
+
+The released model weights are available at:
+
+```text
+https://huggingface.co/isomap88/Deauville_score_LLM/tree/main
+```
+
 ## Data availability
 
 The original longitudinal PET/CT report data used in this study are not publicly available because they contain sensitive patient-derived information and are subject to institutional, ethical, and data privacy restrictions. De-identified data may be made available from the corresponding authors upon reasonable request and with appropriate institutional approvals, where permitted by applicable regulations and data governance policies.
